@@ -1,11 +1,14 @@
 ITPFacebookLikeBox for Joomla! 
 ==========================
-( Version 1.5 )
+( Version 1.6 )
 --------------------------
-
 
 Changelog
 ---------
+
+v1.6
+-----
+* Improved
 
 v1.5
 -----
